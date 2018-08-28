@@ -1,0 +1,7 @@
+This output indicates there is a single branch, the master and the asterisk indicates it is currently active.
+
+Create a new feature branch in the repository
+$ git branch <feature_branch>
+
+Switch to the feature branch to work on it.
+$ git checkout <feature_branch>
