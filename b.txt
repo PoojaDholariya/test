@@ -1,4 +1,4 @@
-This output indicates there is a single branch, the master and the asterisk indicates it is currently active.
+1 )This output indicates there is a single branch, the master and the asterisk indicates it is currently active.
 
 Create a new feature branch in the repository
 $ git branch <feature_branch>
